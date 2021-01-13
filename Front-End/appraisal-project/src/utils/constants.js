@@ -1,5 +1,5 @@
 export const constants = {
-    serverBaseUrl: "https://backend-dev2.ap-south-1.elasticbeanstalk.com" ,
+    serverBaseUrl: "http://backend-dev2.ap-south-1.elasticbeanstalk.com" ,
     
     login:"/accounts/login",
     register:"/accounts/register",
